@@ -1,3 +1,4 @@
+![SharedScreenshot](https://user-images.githubusercontent.com/81669503/114287530-c4587900-9a91-11eb-9330-54276882793b.jpg)
 ---
 title: Site policy
 redirect_from:
